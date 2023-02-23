@@ -7,7 +7,9 @@ Scikit-learn bot that can be used to automatically run scikit-learn Regressors o
 •	Preprocessing numerical and categorical data using the ColumnTransformer of the scikit-learn library.\
 •	Hyperparameter Tuning using the config from [configs.py](https://github.com/SharathKumarReddyAlijarla/Sk-learn-bot-for-OpenML-Regression-Tasks/blob/main/configs.py) file.\
 •	Building a pipeline using the make_pipeline method of the scikit-learn library.\
-•	Evaluating the performance of the model on a given OpenML task and uploading the results to the [OpenML](https://www.openml.org/) server.
+•	Evaluating the performance of the model on a given OpenML task and uploading the results to the [OpenML](https://www.openml.org/) server.\
+
+<img width="500" alt="keys" src="https://user-images.githubusercontent.com/122915971/220997218-5d2b8d40-82e7-4171-b2b7-0707920db718.jpeg"> 
 
 ### Requirements
 •	**[NumPy](https://numpy.org/)**                     1.21.5\
