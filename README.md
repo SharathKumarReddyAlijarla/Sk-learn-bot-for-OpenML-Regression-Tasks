@@ -54,6 +54,10 @@ Despite these enhancements, the scikit-learn for OpenML regression tasks bot sti
 ### Conclusion
 This code provides a comprehensive solution for building a machine learning pipeline and evaluating its performance on a given OpenML task. The code takes care of preprocessing numerical and categorical data, building a pipeline, and uploading the results to the OpenML server. In conclusion, a potent tool for automating machine learning experiments is the scikit-learn bot created for regression tasks on OpenML. The bot can run several regression techniques, assess their effectiveness, and publish the results to the server by utilizing the scikit-learn package and OpenML platform. The bot may explore a wide range of hyperparameter settings thanks to the use of suitable configuration spaces, which guarantees this and gives useful insights into the most effective algorithms and hyperparameters for regression tasks. All things considered, the scikit-learn bot is a useful tool for anyone trying to speed up their machine learning testing process and enhance their output.
 
+### Related Work
+• [Random bot running sklearn classifiers on OpenML](https://github.com/openml/sklearn-bot):
+Sklearn-bot that can be used to automatically run scikit-learn classifiers on OpenML tasks.
+
 ### References
 1.	Joaquin Vanschoren and Jan N. van Rijn and Bernd Bischl and Luis Torgo. OpenML: networked science in machine learning.SIGKDD Explorations 15(2), pp 49-60, 2013
 2.	Matthias Feurer and Jan N. van Rijn and Arlind Kadra and Pieter Gijsbers and Neeratyoy Mallik and Sahithya Ravi and Andreas Mueller and Joaquin Vanschoren and Frank Hutter. OpenML-Python: an extensible Python API for OpenML.arXiv 1911.024902020
