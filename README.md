@@ -1,5 +1,5 @@
 # StudienArbeit: OpenML Bot For Regression
-## README file for Bot code
+
 ### Introduction
 Scikit-learn bot that can be used to automatically run scikit-learn Regressors on [OpenML tasks](https://www.openml.org/search?type=task). This code performs various operations for building a machine learning pipeline and evaluating its performance on a given OpenML task. The code uses various libraries such as numpy, sklearn, and openml to accomplish this. The code includes the following functionalities:\
 •	Argparse for collecting necessary inputs for running the model.\
